@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+## This App is Working on Local Host Bakckend with Mysql
+
 First, run the development server:
 
 ```bash
